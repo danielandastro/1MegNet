@@ -1,0 +1,1 @@
+To make it easier to create your site, this folder contains samples and templates to work on
